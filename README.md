@@ -1,6 +1,6 @@
 # smilinTux Organization Assets
 
-**smilinTux Organization - Bing Chilling Nation**
+**smilinTux Organization — The Penguin Kingdom**
 
 ```
      _____ _  ____  ___
@@ -129,9 +129,9 @@ This work is licensed under the **Creative Commons Attribution-ShareAlike 4.0 In
 - Must attribute smilinTux organization
 - Derivative works must use the same license
 
-## About Bing Chilling Nation
+## About The Penguin Kingdom
 
-These assets represent the visual identity of the Bing Chilling Nation, a community of curious developers and infrastructure enthusiasts who believe in:
+These assets represent the visual identity of the Penguin Kingdom, a community of curious developers and infrastructure enthusiasts who believe in:
 
 - **Playful Sovereignty** — Build with joy and independence
 - **Open Source Forever** — Assets that empower everyone
@@ -140,8 +140,8 @@ These assets represent the visual identity of the Bing Chilling Nation, a commun
 
 ---
 
-**Made with care by S&K Holding QT (Quantum Technologies)**
-[github.com/smilinTux](https://github.com/smilinTux) - Bing Chilling Nation
+**Made with care by smilinTux — The Penguin Kingdom**
+[github.com/smilinTux](https://github.com/smilinTux) — The Penguin Kingdom
 
 *Cool Heads. Warm Justice. Smart Assets.*
 
