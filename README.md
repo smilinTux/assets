@@ -16,7 +16,7 @@
 
 This repository contains shared assets for the smilinTux organization and all its projects. These assets maintain consistent branding and visual identity across the entire smilinTux ecosystem.
 
-**Created by**: S&K Holding QT (Quantum Technologies)
+**Created by**: smilinTux
 **Organization**: [smilinTux](https://github.com/smilinTux)
 **License**: CC-BY-SA-4.0
 
